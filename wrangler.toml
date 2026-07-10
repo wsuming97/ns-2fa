@@ -1,4 +1,4 @@
-name = "nodewarden"
+name = "ns-2fa"
 main = "src/index.ts"
 compatibility_date = "2024-01-01"
 
